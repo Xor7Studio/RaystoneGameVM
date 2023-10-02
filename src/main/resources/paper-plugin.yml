@@ -1,0 +1,4 @@
+name: RaystoneGameVM
+version: 1.0.0-SNAPSHOT
+main: cn.xor7.raystone.RaystoneGameVM
+api-version: "1.20"
