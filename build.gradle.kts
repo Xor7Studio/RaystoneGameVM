@@ -18,7 +18,8 @@ repositories {
 
 dependencies {
     compileOnly("top.leavesmc.leaves:leaves-api:1.20.2-R0.1-SNAPSHOT")
-    implementation("cn.xor7.code.raystone:raystone-api:1.0.0-SNAPSHOT")
+    implementation("cn.xor7.code.raystone:raystone-api:1.0.1-SNAPSHOT")
+    implementation("org.reflections:reflections:0.10.2")
 }
 
 kotlin {
